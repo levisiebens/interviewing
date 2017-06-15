@@ -13,6 +13,7 @@
 ## Design Prep
 * https://www.hiredintech.com/system-design/
 * https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
+* https://github.com/checkcheckzz/system-design-interview
 * https://gist.github.com/vasanthk/485d1c25737e8e72759f (System Design Cheetsheet)
 * https://www.educative.io/collection/5668639101419520/5649050225344512 (Costs for full course)
 
