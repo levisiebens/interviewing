@@ -10,7 +10,37 @@
 
 # Design
 
-## Design Prep
+## Design Patterns
+
+* Signleton Pattern - https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
+* Factory Pattern - https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+* Abstract Factory Pattern - https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+* Builder Pattern - https://www.tutorialspoint.com/design_pattern/builder_pattern.htm
+* Prototype Pattern - https://www.tutorialspoint.com/design_pattern/prototype_pattern.htm
+* Adapter Pattern - https://en.wikipedia.org/wiki/Adapter_pattern
+* Bridge Pattern - https://www.tutorialspoint.com/design_pattern/bridge_pattern.htm
+* Filter Pattern
+* Composite Pattern
+* Decorator Pattern
+* Facade Pattern
+* Flyweight Pattern
+* Proxy Pattern
+* Chain of Responsibility Pattern
+* Command Pattern
+* Interpreter Pattern
+* Iterator Pattern
+* Mediator Pattern
+* Memento Pattern
+* Observer Pattern
+* State Pattern 
+* Strategy Pattern
+* Template Pattern
+* Vistor Pattern
+* MVC Pattern
+* Business Delegate Pattern
+* Service Locator Pattern
+
+## System Design Prep
 * https://www.hiredintech.com/system-design/
 * https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
 * https://github.com/checkcheckzz/system-design-interview
