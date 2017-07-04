@@ -50,4 +50,8 @@
 ## Design Practice
 * https://www.careercup.com/page?pid=system-design-interview-questions
 
+# Security
+* https://danielmiessler.com/study/infosec_interview_questions/#gs.KFIzmMs
+* https://www.simplilearn.com/cyber-security-interview-questions-and-answers-article
+
 # Softskills
